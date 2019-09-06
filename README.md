@@ -9,11 +9,12 @@
 
 - Each class should have a course website available in something like [HackMD](https://hackmd.io) to share links and code snippets with learners. Instructors should be able to edit these, although we don't recommend having learners attempt to edit these pages. If the content of the page is disrupted, all material is available in `hackmdio.txt` in the class repository.
 - There are three laptops available to learners to borrow during class sessions. These computers are kept in a locked cabinet in the Coop Lab and should not leave the room. The two Macs have the login and password listed on a sticky note attached to the machine; the Windows laptop can be accessed via HutchnetID.
-- Begin each class session with a quick review of the previous week's learning objectives (if applicable), as well as an overview of objectives for the current class session. At the end of each session, repeat the current session's learning objectives and relate to the next week's materials. This is especially useful in multi-week courses to reiterate the overall learning objectives for the course.
-- For classes longer than 1.5 hours, it is useful to include a ~10 minute break halfway through the class session.
 - Please have learners sign in to each class session, preferably using the Google Form available on each course's HackMD.
+- Begin each class session with a quick review of the previous week's learning objectives (if applicable), as well as an overview of objectives for the current class session. At the end of each session, repeat the current session's learning objectives and relate to the next week's materials. This is especially useful in multi-week courses to reiterate the overall learning objectives for the course.
 - Administering challenges: this section will vary based on the course content and interface.
-- Regroup following challenge exercises and allow the class to suggest a variety of solutions to answer the problem. 
+- Regroup following challenge exercises and allow the class to suggest a variety of solutions to answer the problem.
+- Timing and pacing can be adjusted with challenge exercises. You can add or remove challenges from a given class, or give more or less time as pacing allows. There are extra challenges in `exercises/`
+- For classes longer than 1.5 hours, it is useful to include a ~10 minute break halfway through the class session. It works well to administer a challenge exercise and then take a break, so folks can work on the exercise and/or move around as necessary. Address the challenge after the break before moving on to the next section.
 
 ## After teaching
 
