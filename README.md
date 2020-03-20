@@ -5,6 +5,16 @@
 - Our teaching methods generally follow those described by [The Carpentries' Instructor Training materials](https://carpentries.github.io/instructor-training/). In particular, we use live coding demos (learners following along with instructors) with challenge exercises interspersed throughout the material (preferably every 20-30 minutes, depending on the material).
 - If you have any suggestions or corrections, please feel free to submit a pull request to the lesson in question!
 
+## Introducing the first class session
+
+- Welcome everyone to the class
+- Introduce yourself, including your job/division, what you research, why you're teaching, etc
+- Briefly describe fredhutch.io, a project that teaches reproducible computational methods at Fred Hutch
+- Overview the course philosophy:
+  - courses are designed for researchers who are not expert programmers
+  - focus on applicable and reproducible data/coding skills
+  - follow along with materials and try to stay engaged (e.g., try the challenge exercises)
+
 ## During class
 
 - Each class should have a course website available in something like [HackMD](https://hackmd.io) to share links and code snippets with learners. Instructors should be able to edit these, although we don't recommend having learners attempt to edit these pages. If the content of the page is disrupted, all material is available in `hackmdio.txt` in the class repository.
