@@ -105,6 +105,7 @@ your main tasks are:
   - search for the participant in the search bar at the top of MS Teams
   - click on the video icon by their name to call them
   - if the participant does not appear (e.g., because they are outside the Fred Hutch network, such as SCCA), you can create a call using their email address
+  - after helping the participant in the extra call, you should hang up the extra call and hit "resume" on the original to rejoin the class
 
 ## Accommodating learner absences
 
