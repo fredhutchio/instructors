@@ -72,11 +72,11 @@ Participants and instructors will receive an Outlook calendar invite that has an
   - Clarity in how participants respond to instructor questions.
 - Sharing your screen.
   - Ask if the font is large enough for participants to see comfortably.
-  - Provide reference materials.
+  - Provide reference materials, such as the full teaching notes, so folks can keep up when necessary. Also remind participants of these materials often.
   - Periodically check that audio/visual are working appropriately.
   - Try to minimize switching among screens (e.g., from IDE to web browser), as this makes it difficult for learners to follow. A second monitor works great to hold your teaching notes, so you don't have to move among windows.
   - Use the Do Not Disturb (DND) option on your computer to prevent notifications from popping up while teaching.
-  - Close all programs not being actively used for teaching, and all extra browser tabs. If you still have trouble with a slow connection, also turn off your video.
+  - Close all programs not being actively used for teaching, and all extra browser tabs. If you still have trouble with a slow connection, also turn off your video. If it's still a problem, consider calling in on a separate line (e.g., cell phone), so at least your audio is clear. If you are muted through MS Teams while on a phone, the unmute code is `*6`.
 - If you would like to include breakout rooms,
 [this video](https://techcommunity.microsoft.com/t5/microsoft-teams/breakout-rooms-for-microsoft-teams/m-p/1212601#) describes how to accomplish that with MS Teams.
 
