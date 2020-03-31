@@ -10,10 +10,10 @@ This repository includes general information related to teaching classes for fre
 For information specific for each class, 
 please see the `instructors.md` file in the class repository:
 
-- [Introduction to R](https://github.com/fredhutchio/R_intro/instructors.md)
-- [Introduction to Python](https://github.com/fredhutchio/python_intro/instructors.md)
-- [Introduction to Git and GitHub](https://github.com/fredhutchio/git_github_intro/instructors.md)
-- [Data for Data Science](https://github.com/fredhutchio/data_for_data_science/instructors.md)
+- [Introduction to R](https://github.com/fredhutchio/R_intro/blob/master/instructors.md)
+- [Introduction to Python](https://github.com/fredhutchio/python_intro/blob/master/instructors.md)
+- [Introduction to Git and GitHub](https://github.com/fredhutchio/git_github_intro/blob/master/instructors.md)
+- [Data for Data Science](https://github.com/fredhutchio/data_for_data_science/blob/master/instructors.md)
 
 
 ## Preparing to teach
