@@ -1,5 +1,9 @@
 # Information for fredhutch.io instructors
 
+This repository includes general information related to teaching classes for fredhutch.io. 
+For information specific for each class, 
+please see the `instructors.md` file in the class repository.
+
 - [Preparing to teach](#preparing-to-teach)
 - [During class](#during-class)
 - [Teaching online](#teaching-online)
