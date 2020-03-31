@@ -1,14 +1,20 @@
 # Information for fredhutch.io instructors
 
-This repository includes general information related to teaching classes for fredhutch.io. 
-For information specific for each class, 
-please see the `instructors.md` file in the class repository.
-
 - [Preparing to teach](#preparing-to-teach)
 - [During class](#during-class)
 - [Teaching online](#teaching-online)
 - [Accommodating learner absences](#accommodating-learner-absences)
 - [After teaching](#after-teaching)
+
+This repository includes general information related to teaching classes for fredhutch.io. 
+For information specific for each class, 
+please see the `instructors.md` file in the class repository:
+
+- [Introduction to R](https://github.com/fredhutchio/R_intro/instructors.md)
+- [Introduction to Python](https://github.com/fredhutchio/python_intro/instructors.md)
+- [Introduction to Git and GitHub](https://github.com/fredhutchio/git_github_intro/instructors.md)
+- [Data for Data Science](https://github.com/fredhutchio/data_for_data_science/instructors.md)
+
 
 ## Preparing to teach
 
