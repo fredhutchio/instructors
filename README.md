@@ -6,6 +6,16 @@
 - [Accommodating learner absences](#accommodating-learner-absences)
 - [After teaching](#after-teaching)
 
+This repository includes general information related to teaching classes for fredhutch.io. 
+For information specific for each class, 
+please see the `instructors.md` file in the class repository:
+
+- [Introduction to R](https://github.com/fredhutchio/R_intro/blob/master/instructors.md)
+- [Introduction to Python](https://github.com/fredhutchio/python_intro/blob/master/instructors.md)
+- [Introduction to Git and GitHub](https://github.com/fredhutchio/git_github_intro/blob/master/instructors.md)
+- [Data for Data Science](https://github.com/fredhutchio/data_for_data_science/blob/master/instructors.md)
+
+
 ## Preparing to teach
 
 - Our teaching methods generally follow those described by [The Carpentries' Instructor Training materials](https://carpentries.github.io/instructor-training/). In particular, we use live coding demos (learners following along with instructors) with challenge exercises interspersed throughout the material (preferably every 20-30 minutes, depending on the material).
@@ -72,11 +82,11 @@ Participants and instructors will receive an Outlook calendar invite that has an
   - Clarity in how participants respond to instructor questions.
 - Sharing your screen.
   - Ask if the font is large enough for participants to see comfortably.
-  - Provide reference materials.
+  - Provide reference materials, such as the full teaching notes, so folks can keep up when necessary. Also remind participants of these materials often.
   - Periodically check that audio/visual are working appropriately.
   - Try to minimize switching among screens (e.g., from IDE to web browser), as this makes it difficult for learners to follow. A second monitor works great to hold your teaching notes, so you don't have to move among windows.
   - Use the Do Not Disturb (DND) option on your computer to prevent notifications from popping up while teaching.
-  - Close all programs not being actively used for teaching, and all extra browser tabs. If you still have trouble with a slow connection, also turn off your video.
+  - Close all programs not being actively used for teaching, and all extra browser tabs. If you still have trouble with a slow connection, also turn off your video. If it's still a problem, consider calling in on a separate line (e.g., cell phone), so at least your audio is clear. If you are muted through MS Teams while on a phone, the unmute code is `*6`.
 - If you would like to include breakout rooms,
 [this video](https://techcommunity.microsoft.com/t5/microsoft-teams/breakout-rooms-for-microsoft-teams/m-p/1212601#) describes how to accomplish that with MS Teams.
 
@@ -105,6 +115,7 @@ your main tasks are:
   - search for the participant in the search bar at the top of MS Teams
   - click on the video icon by their name to call them
   - if the participant does not appear (e.g., because they are outside the Fred Hutch network, such as SCCA), you can create a call using their email address
+  - after helping the participant in the extra call, you should hang up the extra call and hit "resume" on the original to rejoin the class
 
 ## Accommodating learner absences
 
