@@ -90,6 +90,30 @@ Participants and instructors will receive an Outlook calendar invite that has an
 - If you would like to include breakout rooms,
 [this video](https://techcommunity.microsoft.com/t5/microsoft-teams/breakout-rooms-for-microsoft-teams/m-p/1212601#) describes how to accomplish that with MS Teams.
 
+### Managing technology 
+
+Online training is particularly challenging for us,
+since we need to manage communication with learners and access our teaching notes,
+all while sharing our computer screen (and keeping the font as large as possible for folks to access!).
+
+Here is an example of one possible arrangement for leading online instruction:
+
+![Example technology setup for teaching online](images/remote_tech_setup.jpg)
+
+Starting in the upper left hand corner of the picture, and moving clockwise to show technology:
+
+- Laptop screen, which is shared with particpants
+- Second monitor, where MS Teams is open to see particpant questions
+- Headphones (to minimize typing sounds when sharing audio from a computer)
+- Tablet (iPad), for teaching notes (this could also be on the second monitor)
+
+You may need to use a phone to call in to the meeting as well, 
+in which case headphones are connected to that instead.
+
+Of course, keep some water close at hand, 
+and a notepad to jot down questions from participants and notes to yourself is always useful!
+
+
 ### Introducing learners to MS Teams
 
 Review this checklist at the beginning of each online class:
