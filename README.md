@@ -25,19 +25,17 @@ please see the `instructors.md` file in the class repository:
 
 - Welcome everyone to the class
 - Introduce yourself, including your job/division, what you research, why you're teaching, etc
-- Briefly describe fredhutch.io, a project that teaches reproducible computational methods at Fred Hutch
+- Briefly describe fredhutch.io, a project that teaches reproducible computational methods at Fred Hutch.
+More about its purpose [here](http://www.fredhutch.io/about/).
 - Overview the course philosophy:
   - courses are designed for researchers who are not expert programmers
   - focus on applicable and reproducible data/coding skills
   - follow along with materials and try to stay engaged (e.g., try the challenge exercises)
+- Review course resources (hackmd, online materials, etc)
+- If you are teaching online, review information for [Introducing learners to MS Teams](#introducing-learners-to-ms-teams).
+- More information on providing an effective introduction is available in [The Carpentries Instructor Training materials](https://carpentries.github.io/instructor-training/23-introductions/index.html).
 
 ## During class
-
-### Introducing yourself
-
-- Describe yourself, position at Fred Hutch, and why you're teaching the course
-- Identify fredhutch.io as the program holding the course, and describe its [purpose](http://www.fredhutch.io/about/).
-- More information on providing an effective introduction is available in [The Carpentries Instructor Training materials](https://carpentries.github.io/instructor-training/23-introductions/index.html).
 
 ### Tools and infrastructure
 
