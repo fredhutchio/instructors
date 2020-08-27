@@ -21,7 +21,14 @@ please see the `instructors.md` file in the class repository:
 - Our teaching methods generally follow those described by [The Carpentries' Instructor Training materials](https://carpentries.github.io/instructor-training/). In particular, we use live coding demos (learners following along with instructors) with challenge exercises interspersed throughout the material (preferably every 20-30 minutes, depending on the material).
 - If you have any suggestions or corrections, please feel free to submit a pull request to the lesson in question!
 
-## Introducing the first class session
+## During class
+
+### Tools and infrastructure
+
+- Each class should have a course website available in something like [HackMD](https://hackmd.io) to share links and code snippets with learners. Instructors should be able to edit these, although we don't recommend having learners attempt to edit these pages. If the content of the page is disrupted, all material is available in `hackmdio.txt` in the class repository.
+- There are three laptops available to learners to borrow during class sessions. These computers are kept in a locked cabinet in the Coop Lab and should not leave the room. The two Macs have the login and password listed on a sticky note attached to the machine; the Windows laptop can be accessed via HutchnetID.
+
+### Introducing the first class session
 
 - Welcome everyone to the class
 - Introduce yourself, including your job/division, what you research, why you're teaching, etc
@@ -35,18 +42,23 @@ More about its purpose [here](http://www.fredhutch.io/about/).
 - If you are teaching online, review information for [Introducing learners to MS Teams](#introducing-learners-to-ms-teams).
 - More information on providing an effective introduction is available in [The Carpentries Instructor Training materials](https://carpentries.github.io/instructor-training/23-introductions/index.html).
 
-## During class
-
-### Tools and infrastructure
-
-- Each class should have a course website available in something like [HackMD](https://hackmd.io) to share links and code snippets with learners. Instructors should be able to edit these, although we don't recommend having learners attempt to edit these pages. If the content of the page is disrupted, all material is available in `hackmdio.txt` in the class repository.
-- There are three laptops available to learners to borrow during class sessions. These computers are kept in a locked cabinet in the Coop Lab and should not leave the room. The two Macs have the login and password listed on a sticky note attached to the machine; the Windows laptop can be accessed via HutchnetID.
-
 ### Starting each class
 
 - Please have learners sign in to each class session, preferably using the Google Form available on each course's HackMD. This is useful for our records, and is also encouraged by Hutch Learning (the attendance is entered into Hutch Learning records as well).
 - Turn on the Do Not Disturb option on your computer to ensure you don't have notifications popping up while teaching. Many computers automatically use this setting while in projection mode, but some applications may behave unpredictably.
 - Begin each class session with a quick review of the previous week's learning objectives (if applicable), as well as an overview of objectives for the current class session. At the end of each session, repeat the current session's learning objectives and relate to the next week's materials. This is especially useful in multi-week courses to reiterate the overall learning objectives for the course.
+
+### Referencing teaching notes
+
+You aren't expected to have the material memorized,
+but managing teaching notes can be challenging.
+A tablet or second laptop are useful for reading teaching notes,
+though it also works well to print out the teaching materials to highlight what you're planning to discuss.
+See the section for [managing technology while teaching online](#managing-technology) for a more complex setup for remote learning.
+
+If you would like to spend more time creating more of a a customized "script" for yourself,
+check out [this repository](https://github.com/k8hertweck/CarpentriesCribSheets) representing short-version notes 
+for Carpentries lessons. 
 
 ### Challenge exercises
 
